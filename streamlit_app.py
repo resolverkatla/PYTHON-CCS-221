@@ -1,6 +1,6 @@
-import matplotlib as py
+import matplotlib
 import opencv-python
-import numpy as np
+import numpy
 import streamlit as st
 import tensorflow
 
