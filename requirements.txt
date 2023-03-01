@@ -1,5 +1,5 @@
 import streamlit as st
 import numpy as py
-import opencv-python-headless
+import opencv-python
 import matplotlib.pyplot as py
 import tensorflow as tf
