@@ -1,4 +1,4 @@
-import matplotlib.pyplot as py
+import matplotlib as py
 import opencv-python
 import numpy as np
 import streamlit as st
